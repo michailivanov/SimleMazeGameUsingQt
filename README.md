@@ -3,7 +3,7 @@ This is a university project. The main goal of this work is to implement a compu
 ![gameplay](assets/images/gameplay.gif)
 
 ## Description
-The main task of this project is to implement a computer game "Maze". The essence of the game "Maze" is by moving to find a way out of the maze. In the maze there are impassable walls and dead ends, which prevent finding the solution. To implement this game and organize the visual part, I have used Qt graphics library. This graphics library is a framework for developing cross-platform applications in C++. The maze is built on a rectangular playing field. Each cell of the maze can be one of two types: an empty cell and a wall. The goal of the game is to get to the finish line before time runs out.
+In this project I have implemented a computer game "Maze". The essence of the "Maze" game is to find a way out. In the maze there are impassable walls and dead ends, which prevent to find the solution. To implement this game and organize the visual part, I have used Qt graphics library. This graphics library is a framework for developing cross-platform applications in C++. The maze is built on a rectangular playing field. Each cell of the maze can be one of two types: an empty cell and a wall. The goal of the game is to get to the finish line before time runs out.
 
 ## Usage
 ### 🎬 Starting the game:
